@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel7.1
+FROM ubuntu
 
 MAINTAINER Swapnil Kulkarni <me@coolsvap.net>
 
